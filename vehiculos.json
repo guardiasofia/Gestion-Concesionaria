@@ -1,0 +1,74 @@
+[
+    {
+        "id_vehiculo": 1,
+        "patente": "ABC123",
+        "marca": "Toyota",
+        "modelo": "Corolla",
+        "tipo": "Sed\u00c3\u00a1n",
+        "a\u00c3\u00b1o": 2015,
+        "kilometraje": 75000,
+        "precio_compra": 12000,
+        "precio_venta": 15000,
+        "estado": "Disponible"
+    },
+    {
+        "id_vehiculo": 2,
+        "patente": "XYZ789",
+        "marca": "Ford",
+        "modelo": "Focus",
+        "tipo": "Hatchback",
+        "a\u00c3\u00b1o": 2017,
+        "kilometraje": 50000,
+        "precio_compra": 14000,
+        "precio_venta": 17000,
+        "estado": "Reservado"
+    },
+    {
+        "patente": "MNO345",
+        "marca": "BMW",
+        "modelo": "Series 3",
+        "tipo": "Sedan",
+        "a\u00f1o": 2022,
+        "kilometraje": 75000,
+        "precio_compra": 30000.0,
+        "precio_venta": 35000.0,
+        "estado": "Disponible",
+        "id_vehiculo": 3
+    },
+    {
+        "id_vehiculo": 4,
+        "patente": "JKL012",
+        "marca": "Chevrolet",
+        "modelo": "Silverado",
+        "tipo": "Pick-up",
+        "a\u00f1o": 2018,
+        "kilometraje": 75000,
+        "precio_compra": 25000.0,
+        "precio_venta": 28000.0,
+        "estado": "Disponible"
+    },
+    {
+        "id_vehiculo": 5,
+        "patente": "GHI789",
+        "marca": "Ford",
+        "modelo": "Mustang",
+        "tipo": "Coup\u00c3\u00a9",
+        "a\u00f1o": 2021,
+        "kilometraje": 60000,
+        "precio_compra": 20000.0,
+        "precio_venta": 23000.0,
+        "estado": "Disponible"
+    },
+    {
+        "id_vehiculo": 6,
+        "patente": "DEF456",
+        "marca": "Honda",
+        "modelo": "Civic",
+        "tipo": "Sedan",
+        "a\u00f1o": 2019,
+        "kilometraje": 50000,
+        "precio_compra": 11000.0,
+        "precio_venta": 13000.0,
+        "estado": "Ocupado"
+    }
+]

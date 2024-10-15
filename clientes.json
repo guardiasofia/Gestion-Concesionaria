@@ -1,0 +1,38 @@
+[
+    {
+        "id_cliente": 1,
+        "nombre": "Juan",
+        "apellido": "Perez",
+        "documento": "12345678",
+        "direccion": "Calle Falsa 123",
+        "telefono": "123-4567",
+        "correo_electronico": "juan.perez@example.com"
+    },
+    {
+        "id_cliente": 2,
+        "nombre": "Maria",
+        "apellido": "Gomez",
+        "documento": "87654321",
+        "direccion": "Calle Cualquiera 123",
+        "telefono": "567890",
+        "correo_electronico": "correo.elec@gmail.com"
+    },
+    {
+        "id_cliente": 3,
+        "nombre": "Juan",
+        "apellido": "Perez",
+        "documento": "12345679",
+        "direccion": "",
+        "telefono": "",
+        "correo_electronico": ""
+    },
+    {
+        "id_cliente": 5,
+        "nombre": "Sofia",
+        "apellido": "Guardia",
+        "documento": "44624113",
+        "direccion": "Doctor del cerro 1303",
+        "telefono": "3454093407",
+        "correo_electronico": "guardiasofia@hotmail.com"
+    }
+]
