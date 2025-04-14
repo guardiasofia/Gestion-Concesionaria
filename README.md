@@ -50,5 +50,6 @@ Permite **agregar, modificar y eliminar** información relacionada con:
 ## 📚 Créditos
 
 Desarrollado por: **Valeria Guardia y Sofía Guardia**
+
 Materia: **Programación I**  
 Carrera: **Tecnicatura Universitaria en Desarrollo Web**
